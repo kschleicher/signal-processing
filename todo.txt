@@ -1,0 +1,36 @@
+01_plot-dc5
+   add readme.txt file 
+   HVSR.DC05.txt
+   HVSRvsSSR_GaussianFits_01192018.xlsx
+   HVSRvsSSR_Results_08272017_alleq_except115and115a (1).xlsx
+   SSR.DC05.txt
+   meetup_python_02_20_2018a.pptx
+      I think Lisa has correction 
+   plot_dc5_ssr_hvsr-a.ipynb
+
+02_convolve
+   add readme.txt file
+   convolution_tutorial.ipynb
+   filter_exercise5.ipynb
+   it would be good to get a good video explaining convolution 
+   https://www.youtube.com/watch?v=N_tCslTLcRU good shortcut illustration
+
+03_fourier_series 
+   1 connect_fourierseries_dft.pptx	
+   5 properties_of_dft.ipynb
+   3 connect_series_discrete.pdf	
+      correct error in equation 2
+         summation should be over n, exponent needs i
+   0 readme.txt
+   4 dft_exercise.ipynb	
+   2 fourierseries_exercise.ipynb
+04_complex_numbers
+   add readme.txt file
+   complex_number_amp_phase.pdf
+   exercise.txt
+   check_complex_homework.ipynb
+
+make review of the training to date
+install material in git
+need correltation video
+make plan for next stage of training
