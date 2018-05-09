@@ -1,0 +1,18 @@
+ Please work these problems.  Show your work.   Select the method your want.  Work in degrees or radians.  Send me the results.  I may work though the problems solving them differently.
+
+z1 = sqrt(3) + i
+z2 = 1 + i
+z3 = 4+3i
+z4= 2+3i
+
+compute 
+|z1|
+|z2|
+|z1  z2|
+arg(z1)
+arg(z2)
+arg(z1/z2)
+conj(z4)
+z3* conj(z4)
+z3/z4
+These should to be straight forward problems.  If I picked something that makes a problem hard or if you have problems, we can discuss on Wednesday. 
